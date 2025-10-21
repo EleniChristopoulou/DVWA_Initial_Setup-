@@ -18,20 +18,20 @@
 <p align="center"><img width="650" height="200" alt="image" src="https://github.com/user-attachments/assets/b83ad2b3-9b5a-4755-9e3e-47fb6bd7b9c3" /></p>
 
 -----
-### Step 6
+### Step 5
   Configure Proxy for Burp Suite to work. 
   First open the BurpSuite tool and do the following steps that captured below.
 <p align="center"><img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/8e5ef056-1275-46af-8442-a531a81dadf0" /></p>
 
-### Step 7
+### Step 6
   Then head to `Settings` within Burp and do the following configurations.
 <p align="center"><img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/acbe0ef8-d41a-404f-8226-53fb706a9329" /> </p>
 
-### Step 8
+### Step 7
   In the meantime locally add the proxy as listed bellow, via `Settings` on the `Network` tab. 
 <p align="center"><img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/5463867f-ceb2-45d6-9e73-a1b198fe479d" /> </p>
 
-### Step 9
+### Step 8
   Finally we need to configure the extension called `Foxy Proxy` <br>
  [Click](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-basic/) to  add the extension. <br>
  Then add the following configurations.
